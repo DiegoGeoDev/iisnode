@@ -203,7 +203,7 @@ Para acessar aplicação e verificar se esta tudo ok é necessário acessar o se
 http://localhost/node/exemploTutorial
 ```
 
-<img src="./img/testeTutorialBrowser.png" alt="img" width="700" height="200"><br>
+<img src="./img/testeTutorialbrowser.png" alt="img" width="700" height="200"><br>
 
 **Caso seja necessários fazer alterações no código quando o mesmo ja estiver na pasta do IISNODE é preciso abrir o arquivo web.config e salvar mesmo que o mesmo não tenha sofrido alterações para que as alterações em outros arquivos tenham efeito.**
 
@@ -211,9 +211,9 @@ http://localhost/node/exemploTutorial
 
 Caso a aplicação precise acessar pastas na rede para algum usuário que tem permissão é necessário criar um pool para a aplicação:
 
-<img src="./img/newpool.png" alt="img" width="500" height="200"><br>
-<img src="./img/newpool2.png" alt="img" width="400" height="300"><br>
-<img src="./img/newpool3.png" alt="img" width="400" height="250"><br>
-<img src="./img/newpool4.png" alt="img" width="600" height="300"><br>
-<img src="./img/newpool5.png" alt="img" width="700" height="200"><br>
-<img src="./img/newpool6.png" alt="img" width="500" height="400"><br>
+<img src="./img/newPool.png" alt="img" width="500" height="200"><br>
+<img src="./img/newPool2.png" alt="img" width="400" height="300"><br>
+<img src="./img/newPool3.png" alt="img" width="400" height="250"><br>
+<img src="./img/newPool4.png" alt="img" width="600" height="300"><br>
+<img src="./img/newPool5.png" alt="img" width="700" height="200"><br>
+<img src="./img/newPool6.png" alt="img" width="500" height="400"><br>
